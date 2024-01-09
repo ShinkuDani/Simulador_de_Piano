@@ -1,0 +1,7 @@
+Comando para criar Ul da classe piano-keys e dentro com as tags
+li com a classe key, e dentro a tag span 16 vezes.
+ul.pino-keys>(li.key>span)*16
+
+
+
+Toggle é basicamente uma função de liga e desliga.
